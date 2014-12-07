@@ -22,5 +22,8 @@
    * [55 - Python Basics 6](055-python-basics-6.md)
    * [60 - A000045.txt](060-a000045-txt.md)
    * [60 - Stegosaurus](060-stegosaurus.md)
+   * [60 - Python Basics 7](060-python-basics-7.md)
+   * [60 - Cookiezi Fanpage](060-cookiezi-fanpage.md)
+   * 
    * [230 - failedxyz](230-failedxyz.md)
 
