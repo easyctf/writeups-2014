@@ -1,7 +1,5 @@
 # 80 - Easy As CTF Gets
 
-*Written by Claude Zou*
-
 ## Problem
 
 What could this possibly mean?
