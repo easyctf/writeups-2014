@@ -58,7 +58,6 @@ Since 1 always equals 1, the condition will always be satisfied, so the script p
 |admin|hi|
 |flag|kids_dont_code_like_this_at_home|
 
+## Flag
 
-
-
-
+`kids_dont_code_like_this_at_home`
