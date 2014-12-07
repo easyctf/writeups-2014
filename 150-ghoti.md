@@ -1,5 +1,7 @@
 # 150 - Ghoti
 
+*Written by Claude Zou*
+
 ## Problem
 
 Haaaalppp I can't pronounce this word. What could this image mean?
