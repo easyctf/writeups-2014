@@ -44,3 +44,11 @@ Notice the query string that fetches the data from the database.
 ```
 $query = "SELECT * FROM `xxxxxxxxx` WHERE username='$username' AND password='$password'";
 ```
+
+If we set username to `' OR 1=1 OR '`, then the query string would look like
+
+```
+$query = "SELECT * FROM `xxxxxxxxx` WHERE username='' OR 1=1 OR '' AND password='whatever'";
+```
+
+Since 1 always equals 1, the condition will always be satisfied, so the script pulls all rows out of the database.
