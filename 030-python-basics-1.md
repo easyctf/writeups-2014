@@ -1,6 +1,6 @@
 # 30 - Python Basics 1
 
-*Written by Emily Leng*
+*Written by Michael Zhang*
 
 ## Problem
 
