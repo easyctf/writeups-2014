@@ -60,3 +60,15 @@ Darn, you didn't get the right flag.
 ;*3$"
 zPLR
 ```
+
+One of those strings looks really suspicious.
+
+## Flag
+
+`eeeeeeeeeeeeeEeesy_ctf`
+
+
+
+
+
+
