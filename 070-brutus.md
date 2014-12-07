@@ -4,7 +4,7 @@
 
 It appears the only thing you know about the flag is its MD5 hash f54f10fd6e38929084d505d0c2e9c997, and that the flag is formatted in this way: [number][adjective][color][animal] (without the brackets).
 
-Luckily, you have found some lists of the words that may have been used. (http://www.easyctf.com/problem_data/brutus/brutus.zip)
+Luckily, you have found some [lists of the words](http://www.easyctf.com/problem_data/brutus/brutus.zip) that may have been used. 
 
 Tribute to http://hsctf.com
 
