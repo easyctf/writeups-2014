@@ -38,3 +38,9 @@ if (isset($_POST['submit']) && isset($_POST['username']) && isset($_POST['passwo
 
 ?>
 ```
+
+Notice the query string that fetches the data from the database.
+
+```
+$query = "SELECT * FROM `xxxxxxxxx` WHERE username='$username' AND password='$password'";
+```
