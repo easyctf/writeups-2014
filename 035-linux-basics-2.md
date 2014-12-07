@@ -1,2 +1,13 @@
 # 35 - Linux Basics 2
 
+*Written by Michael Zhang*
+
+## Problem
+
+Now that you're somewhat familiar with how the Linux shell works, we'll move on to another command that is useful: [cat](http://linux.die.net/man/1/cat).
+
+To solve this problem, log into the shell server, and try to find out what's inside `/problems/cat/flag.txt`!
+
+## Hint
+
+There are multiple ways to solve this problem; kudos to you if you find them all!
