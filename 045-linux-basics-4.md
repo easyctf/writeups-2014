@@ -1,4 +1,4 @@
-# 45 - Linux Basics 4 (TODO)
+# 45 - Linux Basics 4
 
 *Written by Michael Zhang*
 
