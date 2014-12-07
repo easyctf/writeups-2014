@@ -15,3 +15,12 @@ The flag is the filename of the file containing the string `yep!`. All other fil
 What character stands for "all files"?
 
 ## Solution
+
+```bash
+login as: user37142
+user37142@shell.easyctf.com's password:
+
+user37142@easyctf:~$ cd /problems/grep
+user37142@easyctf:/problems/grep$
+see_linux_isn't_so_scary_after_all
+```
