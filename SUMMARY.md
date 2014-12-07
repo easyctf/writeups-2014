@@ -44,5 +44,8 @@
    * [100 - Project Eratosthenes](100-project-eratosthenes.md)
    * [100 - Palindrama](100-palindrama.md)
    * [120 - Fast Math](120-fast-math.md)
+   * [130 - Reversing 2](130-reversing-2.md)
+   * [150 - Ghoti](150-ghoti.md)
+   * [160 - Obfuscation 2](160-obfuscation-2.md)
    * [230 - failedxyz](230-failedxyz.md)
 
