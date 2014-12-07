@@ -1,5 +1,7 @@
 # 230 - failedxyz
 
+*Written by Michael Zhang*
+
 ## Problem
 
 My name is Michael Zhang.
