@@ -55,15 +55,10 @@ The comment `konami` implies that you have to perform a konami code sequence on 
 [38, 38, 40, 40, 37, 39, 37, 39, 66, 65, 66, 65, 13]
 ```
 
-is actually:
+is actually: UP UP DOWN DOWN LEFT RIGHT LEFT RIGHT B A **B A** ENTER
 
-UP UP DOWN DOWN LEFT RIGHT LEFT RIGHT B A **B A** ENTER
+If you perform this sequence on the page, then check the console (since it prints the flag to the console), then you would find your flag.
 
+## Flag
 
-
-
-
-
-
-
-
+`konami_c0dez`
