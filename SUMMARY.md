@@ -11,5 +11,11 @@
    * [40 - QR](040-qr.md)
    * [40 - Networking](040-networking.md)
    * [40 - Lines, Dots, and Shift Keys](040-lines-dots-shift-keys.md)
+   * [40 - Linux Basics 3](040-linux-basics-3.md)
+   * [40 - Python Basics 3](040-python-basics-3.md)
+   * [45 - Linux Basics 4](045-linux-basics-4.md)
+   * [45 - Python Basics 4](045-python-basics-4.md)
+   * [50 - Pointless Keys](050-pointless-keys.md)
+   * 
    * [230 - failedxyz](230-failedxyz.md)
 
