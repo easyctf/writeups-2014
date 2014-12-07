@@ -21,15 +21,17 @@ And these previous CTF organizers who helped a lot with monitoring the IRC and o
 * Alok Tripathy - [HSCS.io](http://hscs.io)
 * Jacob Edelman - [HSCS.io](http://hscs.io)
 
-Also thanks to Max Serrano from PPP for help and advice.
+Thanks to Max Serrano from PPP for help and advice.
 
-Also I'd like to thank PicoCTF for their amazing CTF platform.
+Also thanks to PicoCTF for their amazing CTF platform.
 
 Thanks to Scott Wu for hosting part 3 of the flag for failedxyz.
 
-Finally, I'd like to thank our sponsors:
+I'd like to thank our sponsors:
 
 * The Flatiron School
 * Edmodo
 * HSCS.io
 * Uber
+
+Finally, thanks to the participants for making this a fun experience.
