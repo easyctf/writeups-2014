@@ -1,2 +1,6 @@
-# 50 - POST-it (TODO)
+# 50 - POST-it
+
+*Written by Michael Zhang*
+
+
 
