@@ -29,6 +29,8 @@
    * [65 - Python Basics 8](065-python-basics-8.md)
    * [70 - The Raven](070-the-raven.md)
    * [70 - Just Sum Numbers](070-just-sum-numbers.md)
+   * [70 - Python Basics 9](070-python-basics-9.md)
    * [70 - Brutus](070-brutus.md)
+   * [70 - Hashing](070-hashing.md)
    * [230 - failedxyz](230-failedxyz.md)
 
