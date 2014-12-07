@@ -87,7 +87,11 @@ The third part can be found at the bottom of http://wosu.ga.
 
 ### Part 4
 
-Most people found this first. In my [Twitch](http://twitch.tv/failedxyz) bio, I included a string "2*impossible". This refers to the Impossible Duet. Performing a Google search on `failedxyz impossible duet` brings us to [this recording](https://soundcloud.com/failedxyz/passacaglia).
+Most people found this first. In my [Twitch](http://twitch.tv/failedxyz) bio, I included a string "2*impossible". This refers to the Impossible Duet. Performing a Google search on `failedxyz impossible duet` brings us to [this recording](https://soundcloud.com/failedxyz/passacaglia). The recording has a link to sheet music, which was available at https://sites.google.com/site/fdetzl/impossible-duet.
+
+This site looks pretty innocent, but under the Sitemap view, there's a page called [Part 4](https://sites.google.com/site/fdetzl/part-4), which has the following contents:
+
+`Fish duet is pretty good too. You might want to know this: 5ktxaA0e8yaL5tvrXjfKjM4ZYGmgVtSvsS7yZoH9udI=`
 
 ## Flag
 
