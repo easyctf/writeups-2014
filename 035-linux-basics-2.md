@@ -21,3 +21,7 @@ user37142@shell.easyctf.com's password:
 user37142@easyctf:~$ cat /problems/cat/flag.txt
 see_linux_isn't_so_scary_after_all
 ```
+
+## Flag
+
+`see_linux_isn't_so_scary_after_all`
