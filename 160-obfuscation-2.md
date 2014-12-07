@@ -1,7 +1,5 @@
 # 160 - Obfuscation2
 
-*Written by Claude Zou*
-
 ## Problem
 
 This jumbled mess has been left for you... source
