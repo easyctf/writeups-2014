@@ -85,6 +85,10 @@ The third part can be found at the bottom of http://wosu.ga.
 </html>
 ```
 
+### Part 4
+
+Most people found this first. In my [Twitch](http://twitch.tv/failedxyz) bio, I included a string "2*impossible". This refers to the Impossible Duet.
+
 ## Flag
 
 `failed_up_is_the_best_fail_you_are_ctf_champion`
