@@ -95,7 +95,7 @@ This site looks pretty innocent, but under the Sitemap view, there's a page call
 Fish duet is pretty good too. You might want to know this: 5ktxaA0e8yaL5tvrXjfKjM4ZYGmgVtSvsS7yZoH9udI=
 ```
 
-Fish duet refers to *twofish* encryption.
+Fish duet refers to *twofish* encryption. Again, the hash is given to you (the hash was found to be broken in the middle of the competition, but this time it was changed directly on the site).
 
 ## Flag
 
