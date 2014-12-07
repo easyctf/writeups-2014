@@ -1,4 +1,4 @@
-# 55 - Python Basics 6 (TODO)
+# 55 - Python Basics 6
 
 *Written by Emily Leng*
 
