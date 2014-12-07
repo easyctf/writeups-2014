@@ -16,7 +16,7 @@ You might want to study up on some SQL syntax. How can we modify the query so it
 
 Examine this bit of injection.phps carefully:
 
-``php
+```php
 <?php
 
 error_reporting(0);
