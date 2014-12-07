@@ -21,5 +21,6 @@
    * [50 - Reversing 1](050-reversing-1.md)
    * [55 - Python Basics 6](055-python-basics-6.md)
    * [60 - A000045.txt](060-a000045-txt.md)
+   * [60 - Stegosaurus](060-stegosaurus.md)
    * [230 - failedxyz](230-failedxyz.md)
 
