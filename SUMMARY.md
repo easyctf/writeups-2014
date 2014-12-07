@@ -27,5 +27,8 @@
    * [60 - Format Deception](060-format-deception.md)
    * [60 - Flowchart](060-flowchart.md)
    * [65 - Python Basics 8](065-python-basics-8.md)
+   * [70 - The Raven](070-the-raven.md)
+   * [70 - Just Sum Numbers](070-just-sum-numbers.md)
+   * [70 - Brutus](070-brutus.md)
    * [230 - failedxyz](230-failedxyz.md)
 
