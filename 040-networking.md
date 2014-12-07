@@ -15,3 +15,7 @@ https://www.cloudshark.org/captures/1c66eb3587a1
 Alternatively, here is the source file if you like to download it and view it in WireShark:
 
 [Input File](mystery.pcap)
+
+## Hint
+
+It seems like information is being recorded as a form is submitted, through a POST request.
