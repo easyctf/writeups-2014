@@ -1,4 +1,4 @@
-# 40 - Python Basics 3 (TODO)
+# 40 - Python Basics 3
 
 *Written by Emily Leng*
 
