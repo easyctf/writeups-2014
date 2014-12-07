@@ -41,6 +41,6 @@
    * [90 - Obfuscation 1](090-obfuscation-1.md)
    * [90 - Pixelated](090-pixelated.md)
    * [95 - Brachiosaurus](095-brachiosaurus.md)
-   * 
+   * [100 - Project Eratosthenes](100-project-eratosthenes.md)
    * [230 - failedxyz](230-failedxyz.md)
 
