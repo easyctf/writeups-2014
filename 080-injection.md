@@ -14,3 +14,4 @@ You might want to study up on some SQL syntax. How can we modify the query so it
 
 ## Solution
 
+Examine this bit of injection.phps carefully:
