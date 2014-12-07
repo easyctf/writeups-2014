@@ -29,7 +29,13 @@ My [personal site](http://failedxyz.github.io) would be a good place to look for
 
 ![1](mz1.jpg)
 
-The file end signature for JPEG files is `FF D9`, so anything after this signature will not be a part of the JPEG. Moving everything after `FF D9` to a new `.rar` file (notice the `Rar!` file signature indicating that this is a rar archive), we find a file called `sh58` inside.
+The file end signature for JPEG files is `FF D9`, so anything after this signature will not be a part of the JPEG. Moving everything after `FF D9` to a new `.rar` file (notice the `Rar!` file signature indicating that this is a rar archive), we find a file called `sh58` inside. This file contained the following contents:
+
+```
+check out puffdonut's dulles airport rendition in minecraft! fehxNkfgzX96S1P7vwDtew==
+```
+
+It turns out that this hash was incorrect, so it was replaced with `dE+0bYbrewc=`, which can be found on the clarification page.
 
 ## Flag
 
