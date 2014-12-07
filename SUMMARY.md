@@ -37,7 +37,7 @@
    * [75 - Corruption](075-corruption.md) - (TODO)
    * [75 - Python Basics 10](075-python-basics-10.md) - (TODO)
    * [80 - Easy As CTF Gets](080-easy-as-ctf-gets.md) - (TODO)
-   * [80 - Injection](080-injection.md) - (TODO)
+   * [80 - Injection](080-injection.md)
    * [90 - Obfuscation 1](090-obfuscation-1.md) - (TODO)
    * [90 - Pixelated](090-pixelated.md) - (TODO)
    * [95 - Brachiosaurus](095-brachiosaurus.md) - (TODO)
