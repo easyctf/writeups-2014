@@ -53,6 +53,15 @@ We now have a key and a ciphertext. What is the algorithm? That's not too hard t
 
 At this point, any online decrypting service would work. Using the key `sonicetherunbelievableshader` and the ciphertext `dE+0bYbrewc=`, we get `is_the_` as the second part of the flag.
 
+### Part 3
+
+This one is simple. You can reach http://projectnebula.org/failosu through many methods including:
+
+* a link on my [Twitter](http://twitter.com/fdetzl) (which I never use)
+* a link from my [osu! profile](http://osu.ppy.sh/u/IOException)
+
+
+
 ## Flag
 
 `failed_up_is_the_best_fail_you_are_ctf_champion`
