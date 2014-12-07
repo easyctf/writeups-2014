@@ -97,7 +97,9 @@ Fish duet is pretty good too. You might want to know this: 5ktxaA0e8yaL5tvrXjfKj
 
 Fish duet refers to *twofish* encryption. Again, the hash is given to you (the hash was found to be broken in the middle of the competition, but this time it was changed directly on the site).
 
-So we already have a ciphertext and encryption method! Where's the key? Well, twofish encryption keys must be either 16, 24, or 32 characters in length. Notice that the title of the page, `fdetzl`, has a length of 6, which perfectly divides into 24.
+So we already have a ciphertext and encryption method! Where's the key? Well, twofish encryption keys must be either 16, 24, or 32 characters in length. Notice that the title of the page, `fdetzl`, has a length of 6, which perfectly divides into 24. The key is `fdetzlfdetzlfdetzlfdetzl`. Later a hint was released saying that the key was actually a repeated phrase.
+
+
 
 ## Flag
 
