@@ -1,5 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-    * EasyCTF Survey
+   * EasyCTF Survey
+   * Writeups
 
