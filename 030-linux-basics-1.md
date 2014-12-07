@@ -1,5 +1,7 @@
 # 30 - Linux Basics 1
 
+*Written by Michael Zhang*
+
 ## Problem
 
 Many servers (including web servers) are run on machines that use an operating system called Linux. Most of you are familiar with an operating system such as Windows or Mac OS X, or maybe a mobile operating system such as Android or iOS.
