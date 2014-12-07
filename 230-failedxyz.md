@@ -97,6 +97,8 @@ Fish duet is pretty good too. You might want to know this: 5ktxaA0e8yaL5tvrXjfKj
 
 Fish duet refers to *twofish* encryption. Again, the hash is given to you (the hash was found to be broken in the middle of the competition, but this time it was changed directly on the site).
 
+So we already have a ciphertext and encryption method! Where's the key? Well, twofish encryption keys must be either 16, 24, or 32 characters in length. 
+
 ## Flag
 
 `failed_up_is_the_best_fail_you_are_ctf_champion`
