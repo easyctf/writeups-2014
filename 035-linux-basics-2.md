@@ -11,3 +11,6 @@ To solve this problem, log into the shell server, and try to find out what's ins
 ## Hint
 
 There are multiple ways to solve this problem; kudos to you if you find them all!
+
+## Solution
+
