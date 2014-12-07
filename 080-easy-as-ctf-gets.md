@@ -8,7 +8,7 @@ xhwdlsibxnmwvinalpdcbsymzzx
 
 ## Hint
 
-Perhaps you could try one of these ciphers. http://rumkin.com/tools/cipher/
+Perhaps you could try one of these [ciphers.](http://rumkin.com/tools/cipher/) 
 
 ## Solution
 
