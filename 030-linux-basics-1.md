@@ -13,6 +13,10 @@ Before you can learn how to hack, you have to learn how Linux works. Some basics
 
 In the first problem, we'll learn about a function called `ls`. Log in to the web shell, and type `cd /problems/ls` to get started.
 
+## Hint
+
+If you're still unsure how to solve this problem, ask for help on the chat or take a look on our Learn page.
+
 ## Solution
 
 ```bash
