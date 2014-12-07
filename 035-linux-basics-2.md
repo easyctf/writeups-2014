@@ -18,8 +18,6 @@ There are multiple ways to solve this problem; kudos to you if you find them all
 login as: user37142
 user37142@shell.easyctf.com's password:
 
-user37142@easyctf:~$ cd /problems/cat
-user37142@easyctf:/problems/cat$ ls
-flag.txt
-user37142@easyctf:/problems/cat$ cat flag.txt
+user37142@easyctf:~$ cat /problems/cat/flag.txt
+
 ```
