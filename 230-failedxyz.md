@@ -91,7 +91,11 @@ Most people found this first. In my [Twitch](http://twitch.tv/failedxyz) bio, I 
 
 This site looks pretty innocent, but under the Sitemap view, there's a page called [Part 4](https://sites.google.com/site/fdetzl/part-4), which has the following contents:
 
-`Fish duet is pretty good too. You might want to know this: 5ktxaA0e8yaL5tvrXjfKjM4ZYGmgVtSvsS7yZoH9udI=`
+```
+Fish duet is pretty good too. You might want to know this: 5ktxaA0e8yaL5tvrXjfKjM4ZYGmgVtSvsS7yZoH9udI=
+```
+
+Fish duet refers to *twofish* encryption.
 
 ## Flag
 
