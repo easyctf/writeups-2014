@@ -2,8 +2,7 @@
 
 ## Problem
 
-This jumbled mess has been left for you... source
-http://www.easyctf.com/problem_data/obfuscation/obfuscate.js
+This jumbled mess has been left for you... [source](http://www.easyctf.com/problem_data/obfuscation/obfuscate.js)
 
 ## Hint
 
