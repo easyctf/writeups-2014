@@ -14,3 +14,4 @@ This problem had 4 parts. These 4 parts could be found by scouring all of my acc
 
 ### Part 1
 
+**Hint: ** L
