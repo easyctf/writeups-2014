@@ -11,3 +11,6 @@ This site seems to have some information we need. Unfortunately, it's protected 
 ## Hint
 
 You might want to study up on some SQL syntax. How can we modify the query so it will always return true?
+
+## Solution
+
