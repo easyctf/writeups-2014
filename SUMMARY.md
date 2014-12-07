@@ -42,5 +42,7 @@
    * [90 - Pixelated](090-pixelated.md)
    * [95 - Brachiosaurus](095-brachiosaurus.md)
    * [100 - Project Eratosthenes](100-project-eratosthenes.md)
+   * [100 - Palindrama](100-palindrama.md)
+   * [120 - Fast Math](120-fast-math.md)
    * [230 - failedxyz](230-failedxyz.md)
 
