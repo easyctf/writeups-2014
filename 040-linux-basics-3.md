@@ -21,6 +21,6 @@ login as: user37142
 user37142@shell.easyctf.com's password:
 
 user37142@easyctf:~$ cd /problems/grep
-user37142@easyctf:/problems/grep$
+user37142@easyctf:/problems/grep$ grep "yep!" *
 see_linux_isn't_so_scary_after_all
 ```
