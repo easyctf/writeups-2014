@@ -14,7 +14,8 @@ I bet the flag is stored as a string... how can we see all the strings in a bina
 
 ## Solution
 
-```
+```bash
+
 /lib64/ld-linux-x86-64.so.2
 CyIk
 libstdc++.so.6
