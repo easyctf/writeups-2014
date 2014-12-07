@@ -36,5 +36,6 @@
    * [75 - Golden Ratio Obsession](075-golden-ratio-obsession.md)
    * [75 - Corruption](075-corruption.md)
    * [75 - Python Basics 10](075-python-basics-10.md)
+   * [80 - Easy As CTF Gets](080-easy-as-ctf-gets.md)
    * [230 - failedxyz](230-failedxyz.md)
 
