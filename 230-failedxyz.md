@@ -14,8 +14,6 @@ This problem had 4 parts. These 4 parts could be found by scouring all of my acc
 
 ### Part 1
 
-**Hint: ** L
-
 On my YouTube channel at http://youtube.com/user/failedxyz, one of the videos is called [**ice - L (Cytus)**](https://www.youtube.com/watch?v=eUSQBqGZwH4). In the description of the video you'll find these lines:
 
 ```
