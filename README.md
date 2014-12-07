@@ -8,6 +8,8 @@ Thanks for playing EasyCTF! Here are the solutions to the problems. If you have 
 
 Our purpose in making this CTF was to help people learn programming and about systems in general. Consequently, after some processing, we'll leave the problems and site up after the contest.
 
+We really enjoyed running this CTF and we hope you really enjoyed playing it. There will be more high school CTFs coming up, so you better be there :).
+
 ## Credits
 
 I'd like to thank all those people who helped make EasyCTF happen.
