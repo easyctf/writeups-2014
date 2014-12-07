@@ -47,5 +47,9 @@
    * [130 - Reversing 2](130-reversing-2.md)
    * [150 - Ghoti](150-ghoti.md)
    * [160 - Obfuscation 2](160-obfuscation-2.md)
+   * [180 - The Door](180-the-door.md)
+   * [180 - Evil Guess](180-evil-guess.md)
+   * [180 - RSA](180-rsa.md)
+   * [200 - Guessing is Hard](200-guessing-is-hard.md)
    * [230 - failedxyz](230-failedxyz.md)
 
