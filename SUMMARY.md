@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Writeups](writeups.md)
-   * [EasyCTF Survey](easyctf_survey.md)
+   * [20 - EasyCTF Survey](020-easyctf_survey.md)
 
