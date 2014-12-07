@@ -32,6 +32,6 @@
    * [70 - Python Basics 9](070-python-basics-9.md)
    * [70 - Brutus](070-brutus.md)
    * [70 - Hashing](070-hashing.md)
-   * [70 - Format 1](070-format.md)
+   * [70 - Format](070-format.md)
    * [230 - failedxyz](230-failedxyz.md)
 
