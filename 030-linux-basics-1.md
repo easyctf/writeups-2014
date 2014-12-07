@@ -11,4 +11,4 @@ Before you can learn how to hack, you have to learn how Linux works. Some basics
 - `echo` - similar to `print` in most programming languages. Typing `echo "hi"` will literally print the word "hi" to the screen.
 - `cd` - stands for change directory. When you execute a command, you are always doing so from a specific directory. To change the directory, type cd and whichever directory you want to go to.
 
-In the first problem, we'll learn about a function called ls. Log in to the web shell, and type `cd /problems/ls` to get started.
+In the first problem, we'll learn about a function called `ls`. Log in to the web shell, and type `cd /problems/ls` to get started.
