@@ -24,6 +24,6 @@
    * [60 - Stegosaurus](060-stegosaurus.md)
    * [60 - Python Basics 7](060-python-basics-7.md)
    * [60 - Cookiezi Fanpage](060-cookiezi-fanpage.md)
-   * 
+   * [60 - Format Deception](060-format-deception.md)
    * [230 - failedxyz](230-failedxyz.md)
 
