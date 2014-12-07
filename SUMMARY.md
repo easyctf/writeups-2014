@@ -33,5 +33,6 @@
    * [70 - Brutus](070-brutus.md)
    * [70 - Hashing](070-hashing.md)
    * [70 - Format](070-format.md)
+   * [75 - Golden Ratio Obsession](075-golden-ratio-obsession.md)
    * [230 - failedxyz](230-failedxyz.md)
 
