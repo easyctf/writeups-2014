@@ -51,7 +51,13 @@ if (window.addEventListener) {
 
 The comment `konami` implies that you have to perform a konami code sequence on the page. However, closely examine the source code, and you'll notice that the sequence in `tkeys` doesn't exactly match the konami code.
 
+```
+[38, 38, 40, 40, 37, 39, 37, 39, 66, 65, 66, 65, 13]
+```
 
+is actually:
+
+UP UP DOWN DOWN LEFT RIGHT LEFT RIGHT B A **B A** ENTER
 
 
 
