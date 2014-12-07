@@ -13,4 +13,4 @@ And these previous CTF organizers who helped a lot with monitoring the IRC and o
 * Alok Tripathy - [HSCS.io](http://hscs.io)
 * Jacob Edelman - [HSCS.io](http://hscs.io)
 
-Also I'd like to thank 
+Also I'd like to thank PicoCTF for their amazing CTF platform.
