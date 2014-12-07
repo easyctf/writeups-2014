@@ -9,3 +9,5 @@ The function printf can do a lot of great things, but depends on how you use it.
 Problem can be found at `/problems/format1` and source can be downloaded [here](format1.c).
 
 ## Hint
+
+This line might interest you... `printf(argv[1]);`. What happens if no format arguments are provided?
