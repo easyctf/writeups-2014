@@ -8,6 +8,10 @@ Since this is the first time we're holding this competition, we'd like some feed
 
 [EasyCTF Feedback Survey](https://docs.google.com/forms/d/1VmReUSHT4vDdUJgyymzJzPJM5r59iyn4VpgBBDadvnU/viewform)
 
+## Hint
+
+Just click the link and complete the survey! No tricks here!
+
 ## Solution
 
 Complete the survey.
