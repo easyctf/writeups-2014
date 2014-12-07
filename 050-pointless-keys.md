@@ -1,4 +1,4 @@
-# 50 - Pointless Keys (TODO)
+# 50 - Pointless Keys
 
 *Written by Michael Zhang*
 
