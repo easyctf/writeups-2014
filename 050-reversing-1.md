@@ -15,7 +15,11 @@ I bet the flag is stored as a string... how can we see all the strings in a bina
 ## Solution
 
 ```bash
+login as: user37142
+user37142@shell.easyctf.com's password:
 
+user37142@easyctf:~$ cd /problems/reversing1
+user37142@easyctf:/problems/reversing1$ strings reversing1
 /lib64/ld-linux-x86-64.so.2
 CyIk
 libstdc++.so.6
