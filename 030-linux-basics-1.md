@@ -24,7 +24,6 @@ If you're still unsure how to solve this problem, ask for help on the [chat](htt
 ```bash
 login as: user37142
 user37142@shell.easyctf.com's password:
-
 user37142@easyctf:~$ cd /problems/ls
 user37142@easyctf:/problems/ls$ ls
 look_i_am_a_flag.txt
