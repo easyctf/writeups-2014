@@ -1,4 +1,4 @@
-# 40 - Lines, Dots, and Shift Keys (TODO)
+# 40 - Lines, Dots, and Shift Keys
 
 *Written by Emily Leng*
 
