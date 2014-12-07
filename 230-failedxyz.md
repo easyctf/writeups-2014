@@ -60,7 +60,30 @@ This one is simple. You can reach http://projectnebula.org/failosu through many 
 * a link on my [Twitter](http://twitter.com/fdetzl) (which I never use)
 * a link from my [osu! profile](http://osu.ppy.sh/u/IOException)
 
+Click on any of the songs listed and browse the source code. Close inspection of [this site](http://projectnebula.org/failosu/play.php?folder=39804+xi+-+FREEDOM+DiVE&map=xi+-+FREEDOM+DiVE+%28Nakagawa-Kanon%29+%5BFOUR+DIMENSIONS%5D.osu) reveals:
 
+```
+<script type="text/javascript">
+	/*
+	Version 1
+	 + Loading WOsu (http://wosu.ga)
+	Upcoming
+	 + Slider ticks
+	 + Auto replay based on map
+		 + score and combo calculations
+	*/
+```
+
+The third part can be found at the bottom of http://wosu.ga.
+
+```
+</script>
+
+<!-- Part 3: best_fail_ -->
+
+</body>
+</html>
+```
 
 ## Flag
 
