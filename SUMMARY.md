@@ -51,5 +51,5 @@
    * [180 - Evil Guess](180-evil-guess.md) - (TODO)
    * [180 - RSA](180-rsa.md) - (TODO)
    * [200 - Guessing is Hard](200-guessing-is-hard.md) - (TODO)
-   * [230 - failedxyz](230-failedxyz.md) - (TODO)
+   * [230 - failedxyz](230-failedxyz.md)
 
