@@ -35,7 +35,23 @@ The file end signature for JPEG files is `FF D9`, so anything after this signatu
 check out puffdonut's dulles airport rendition in minecraft! fehxNkfgzX96S1P7vwDtew==
 ```
 
-It turns out that this hash was incorrect, so it was replaced with `dE+0bYbrewc=`, which can be found on the clarification page.
+It turns out that this hash was incorrect, so it was replaced with `dE+0bYbrewc=`, which can be found on the clarification page. A quick Google on `puffdonut dulles airport minecraft` produces the following URL:
+
+```
+http://www.minecraftforum.net/forums/mapping-and-modding/maps/1528032-dulles-airport-v6
+```
+
+On page 2 of the comments, notice a post by failedxyz that says
+
+```
+Nice job! Your video was amazing.Will you do any more maps of real places?
+
+key: sonicetherunbelievableshader
+```
+
+We now have a key and a ciphertext. What is the algorithm? That's not too hard to find. Under my Minecraft Forum profile (the same site as before), my interests are DES encryption.
+
+At this point, any online decrypting service would work. Using the key `sonicetherunbelievableshader` and the ciphertext `dE+0bYbrewc=`, we get `is_the_` as the second part of the flag.
 
 ## Flag
 
