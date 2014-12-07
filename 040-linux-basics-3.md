@@ -24,3 +24,7 @@ user37142@easyctf:~$ cd /problems/grep
 user37142@easyctf:/problems/grep$ grep "yep!" *
 27054997:yep!
 ```
+
+## Flag
+
+`27054997`
