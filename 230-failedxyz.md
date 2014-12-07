@@ -27,6 +27,8 @@ Another way to reach this video is from my MuseScore profile, which is linked on
 
 My [personal site](http://failedxyz.github.io) would be a good place to look for clues. In this case, the source code was publicly available on GitHub, so instead, the clue was hidden inside the profile image on the top right.
 
+![1](mz1.jpg)
+
 
 
 ## Flag
