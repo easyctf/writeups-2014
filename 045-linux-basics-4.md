@@ -8,4 +8,4 @@ Alright time to get to some fun stuff: binaries. A **binary** is just a really f
 
 The binary in this problem is a program. When you run it, it'll ask you for an input, but not just any input: a special character. To run this binary, navigate to the folder `/problems/pipe` and run `./pipe`.
 
-The source code is available for download here, or you can find it at /problems/pipe/pipe.c on the shell server. The flag has been redacted.
+The source code is available for download [here](pipe.c), or you can find it at `/problems/pipe/pipe.c` on the shell server. The flag has been redacted.
