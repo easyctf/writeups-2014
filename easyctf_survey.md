@@ -1,2 +1,0 @@
-# EasyCTF Survey
-
