@@ -15,7 +15,7 @@ In the first problem, we'll learn about a function called `ls`. Log in to the we
 
 ## Hint
 
-If you're still unsure how to solve this problem, ask for help on the [chat](http://easyctf.com/chat) or take a look on our Learn page.
+If you're still unsure how to solve this problem, ask for help on the [chat](http://easyctf.com/irc) or take a look on our Learn page.
 
 ## Solution
 
