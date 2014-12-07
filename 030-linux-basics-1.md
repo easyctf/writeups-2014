@@ -15,3 +15,15 @@ In the first problem, we'll learn about a function called `ls`. Log in to the we
 
 ## Solution
 
+```bash
+login as: user37142
+user37142@shell.easyctf.com's password:
+
+user37142@easyctf:~$ cd /problems/ls
+user37142@easyctf:/problems/ls$ ls
+look_i_am_a_flag.txt
+```
+
+## Flag
+
+`look_i_am_a_flag` or `look_i_am_a_flag.txt`
