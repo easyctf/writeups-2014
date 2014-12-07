@@ -16,7 +16,7 @@ Copy the "beautified" code.
 
 Open up a web browser (tested on google chrome) and open up console. (F12 then click on "Console")
 Copy paste the code into the console and press enter. It should say "The flag is near." 
-On the right side of the line, however, there is something that says "VM183:1"
+On the right side of the line, however, there is something that says "VMXXX:X"
 
 Click it and it shows a list of variables and their values, and you get the flag!
 
