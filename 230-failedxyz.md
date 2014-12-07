@@ -21,7 +21,11 @@ Part One
 If you're looking for something, "failed_up_".
 ```
 
+Another way to reach this video is from my MuseScore profile, which is linked on multiple sites across the internet. [One of my transcriptions](http://musescore.com/user/133763/scores/213861) links to the above video.
+
 ### Part 2
+
+My [personal site](http://failedxyz.github.io) would be a good place to look for clues. In this case, the source code was publicly available on GitHub, so instead, the clue was hidden inside the profile image on the top right.
 
 
 
