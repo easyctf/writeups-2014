@@ -15,7 +15,7 @@
    * [40 - Python Basics 3 (TODO)](040-python-basics-3.md)
    * [45 - Linux Basics 4 (TODO)](045-linux-basics-4.md)
    * [45 - Python Basics 4 (TODO)](045-python-basics-4.md)
-   * [50 - Pointless Keys (TODO)](050-pointless-keys.md)
+   * [50 - Pointless Keys](050-pointless-keys.md)
    * [50 - Python Basics 5 (TODO)](050-python-basics-5.md)
    * [50 - POST-it (TODO)](050-post-it.md)
    * [50 - Reversing 1 (TODO)](050-reversing-1.md)
