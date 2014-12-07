@@ -23,6 +23,8 @@ Also thanks to Max Serrano from PPP for help and advice.
 
 Also I'd like to thank PicoCTF for their amazing CTF platform.
 
+Thanks to Scott Wu for hosting part 3 of the flag for failedxyz.
+
 Finally, I'd like to thank our sponsors:
 
 * The Flatiron School
