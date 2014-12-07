@@ -87,8 +87,12 @@ The third part can be found at the bottom of http://wosu.ga.
 
 ### Part 4
 
-Most people found this first. In my [Twitch](http://twitch.tv/failedxyz) bio, I included a string "2*impossible". This refers to the Impossible Duet.
+Most people found this first. In my [Twitch](http://twitch.tv/failedxyz) bio, I included a string "2*impossible". This refers to the Impossible Duet. Performing a Google search on `failedxyz impossible duet` brings us to [this recording](https://soundcloud.com/failedxyz/passacaglia).
 
 ## Flag
 
 `failed_up_is_the_best_fail_you_are_ctf_champion`
+
+
+
+
