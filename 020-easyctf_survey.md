@@ -1,5 +1,7 @@
 # 20 - EasyCTF Survey
 
+*Written by Michael Zhang*
+
 ## Problem
 
 Free points guyz.
