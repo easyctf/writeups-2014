@@ -25,3 +25,7 @@ while tmp:
 
 print digits
 ```
+
+## Flag
+
+`beginner_math_loops_5_e_z_3_me`
