@@ -15,7 +15,7 @@ Look for clues in the file. The file appears corrupted, but maybe it still conta
 First, to solve this problem, we need to find clues (notice the s). There are 2 clues needed to solve the problem.
 
 We can obtain both clues quite easily. The first one is to simply open the picture as a rar file.
-Inside the rar file, we find a file called sh58, which, if we open with notepad, contains the ciphertext "1e95153b6c941098227a4b08d9d74cb9d7b9387f83c74097"
+Inside the rar file, we find a file called sh58, which, if we open with notepad, contains the ciphertext `1e95153b6c941098227a4b08d9d74cb9d7b9387f83c74097`.
 
 To obtain the second clue, we must open the jpg with a hex editor (I used HxD). Then, Ctrl+F "flag", in which it says "here's a hint at the flag: tetraodontidae"
 
