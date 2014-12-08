@@ -1,5 +1,7 @@
 # 90 - Pixelated
 
+*Writeup by Jester*
+
 ## Problem
 
 <img src="http://i.imgur.com/LN4klWr.png"\>      <img src="http://i.imgur.com/ubk2fLw.png"\>
