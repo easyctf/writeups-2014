@@ -22,4 +22,4 @@ Click it and it shows a list of variables and their values, and you get the flag
 
 ## Flag
 
-0bfuscaTion fTw
+`0bfuscaTion fTw`
