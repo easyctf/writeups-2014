@@ -48,6 +48,6 @@ We run it, and get the flag!
 
 ## Flag:
 
-wow_the_random_module_in_python_is_pretty_easy_to_hax
+`wow_the_random_module_in_python_is_pretty_easy_to_hax`
 
 Note: Since the shell is down you probably won't be able to do it.
