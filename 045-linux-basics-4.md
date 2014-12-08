@@ -19,7 +19,7 @@ A pipe can refer to a number of things, but the one you are probably most concer
 ```
 $ echo -e "\\x7" | ./pipe 
 Please enter the character \x07 to get the flag!
-Wow! Your flag is: xxxxxxxxxxx
+Wow! Your flag is: thats_so_nice
 ```
 
 ## Flag
