@@ -6,7 +6,7 @@
    * [30 - Linux Basics 1](030-linux-basics-1.md)
    * [30 - Python Basics 1](030-python-basics-1.md)
    * [35 - A Simple Cipher](035-a-simple-cipher.md)
-   * [35 - Python Basics 2 (TODO)](035-python-basics-2.md)
+   * [35 - Python Basics 2](035-python-basics-2.md)
    * [35 - Linux Basics 2](035-linux-basics-2.md)
    * [40 - QR](040-qr.md)
    * [40 - Networking (TODO)](040-networking.md)
