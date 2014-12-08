@@ -80,6 +80,20 @@ $ xargs -a ~/arg.txt ./format1
 xxxxxxxxxxxxxxxxxxxxxxxx ... xxxxxxxx$ whoami
 format1
 $ cat flag.txt
-theflag
+it's over 9000!!11!1one1!
 $ exit
 ```
+
+## Flag
+
+`it's over 9000!!11!1one1!`
+
+
+
+
+
+
+
+
+
+
