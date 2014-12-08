@@ -9,3 +9,14 @@ How can you add strings in print statements? `args` is an array of 5 variables t
 ## Hint
 
 Hmmm... how can you turn that pesky integer into a string?
+
+## Solution
+
+```python
+tmp = ""
+for i in range(len(args)):
+  tmp += str(args[i])
+print tmp
+```
+
+## Flag
