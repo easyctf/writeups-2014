@@ -15,7 +15,7 @@ It may be helpful to look into what POST requests *are*. How can you use this?
 
 ## Solution
 
-Using curl, you can manually specify post values
+Using curl, you can manually specify POST values
 
 ```
 $ curl --data "user=admin&request=flag" http://www.easyctf.com/sites/post-it
