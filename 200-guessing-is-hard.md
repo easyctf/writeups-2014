@@ -1,5 +1,7 @@
 # 200 - Guessing is hard
 
+*Writeup by MegaAbsol*
+
 ## Problem 
 
 We really love guessing games. Try and get the flag at python.easyctf.com:10663!
