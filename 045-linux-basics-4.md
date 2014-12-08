@@ -13,3 +13,13 @@ The source code is available for download [here](pipe.c), or you can find it at 
 ## Hint
 
 A pipe can refer to a number of things, but the one you are probably most concerned about is this `|` symbol.
+
+## Solution
+
+```
+$ echo -e "\\x7" | ./pipe 
+Please enter the character \x07 to get the flag!
+Wow! Your flag is: xxxxxxxxxxx
+```
+
+## Flag
