@@ -4,7 +4,7 @@
 
 Haaaalppp I can't pronounce this word. What could this image mean?
 
-<img src="http://i.imgur.com/2DPgiE6.jpg" height="120" />
+<img src="ghoti.jpg" height="120" />
 
 ## Hint
 
