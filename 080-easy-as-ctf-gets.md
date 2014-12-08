@@ -1,5 +1,7 @@
 # 80 - Easy As CTF Gets
 
+*Written by Emily Leng*
+
 ## Problem
 
 What could this possibly mean?
