@@ -15,9 +15,13 @@ What are [conditionals](http://learn.easyctf.com/content/python-conditional.html
 ```python
 x = args[0]
 if x >= 100:
-  print "haxx"
+    print "haxx"
 elif x >= 0:
-  print "hacks"
+    print "hacks"
 else:
-  print "hackz"
+    print "hackz"
 ```
+
+## Flag
+
+`just-simple-logic-no-haxx-involved`
