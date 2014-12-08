@@ -53,7 +53,7 @@ Therefore, all we need to do is write more than 9000 characters, and `vuln()` wi
   40069b:	0f 1f 44 00 00       	nopl   0x0(%rax,%rax,1)
 ```
    
-  We can see that in `<main+15>`, `0x601050` is stored onto the stack as a local variable.  Next, lets see where on the stack the local variable is when we run printf:
+  We can see that in `40065d`, `0x601050` is stored onto the stack as a local variable.  Next, lets see where on the stack the local variable is when we run printf:
   
 ```
 $ ./format1 %x-%x-%x-%x-%x-%x-%x-%x-%x-%x
