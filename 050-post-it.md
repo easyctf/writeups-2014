@@ -1,6 +1,7 @@
 # 50 - POST-it
 
-*Written by Michael Zhang and Sean Anderson*
+*Written by Michael Zhang*
+*Writeup by Sean Anderson*
 
 ## Problem
 
