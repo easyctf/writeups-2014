@@ -9,3 +9,15 @@ You're faced with a control panel. There are some instructions left on a sign ne
 ## Hint
 
 What are [conditionals](http://learn.easyctf.com/content/python-conditional.html)?
+
+## Solution
+
+```python
+x = args[0]
+if x >= 100:
+  print "haxx"
+elif x >= 0:
+  print "hacks"
+else:
+  print "hackz"
+```
