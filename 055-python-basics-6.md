@@ -9,3 +9,19 @@ Given an integer value stored in `args[0]`, find the sum of all numbers less tha
 ## Hint
 
 What is a math operation to check divisibility?
+
+## Solution
+
+```python
+tmp = 0
+for i in range(7, args[0]):
+  if i % 7 == 0:
+    tmp += i
+
+digits = 0
+while tmp:
+  digits += tmp % 10
+  tmp /= 10
+
+print digits
+```
