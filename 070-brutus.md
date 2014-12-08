@@ -1,5 +1,7 @@
 # 70 - Brutus
 
+*Written by Emily Leng*
+
 ## Problem
 
 It appears the only thing you know about the flag is its MD5 hash f54f10fd6e38929084d505d0c2e9c997, and that the flag is formatted in this way: [number][adjective][color][animal] without the brackets.
