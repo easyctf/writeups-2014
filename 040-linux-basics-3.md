@@ -16,7 +16,7 @@ What character stands for "all files"?
 
 ## Solution
 
-```bash
+```
 login as: user37142
 user37142@shell.easyctf.com's password:
 
