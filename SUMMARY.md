@@ -19,7 +19,7 @@
    * [50 - Python Basics 5 (TODO)](050-python-basics-5.md)
    * [50 - POST-it](050-post-it.md)
    * [50 - Reversing 1](050-reversing-1.md)
-   * [55 - Python Basics 6 (TODO)](055-python-basics-6.md)
+   * [55 - Python Basics 6](055-python-basics-6.md)
    * [60 - A000045.txt](060-a000045-txt.md)
    * [60 - Stegosaurus](060-stegosaurus.md)
    * [60 - Python Basics 7 (TODO)](060-python-basics-7.md)
