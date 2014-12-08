@@ -24,7 +24,7 @@
    * [60 - Stegosaurus](060-stegosaurus.md)
    * [60 - Python Basics 7 (TODO)](060-python-basics-7.md)
    * [60 - Cookiezi Fanpage](060-cookiezi-fanpage.md)
-   * [60 - Format Deception (TODO)](060-format-deception.md)
+   * [60 - Format Deception (TODO)](060-format_deception.md)
    * [60 - Flowchart (TODO)](060-flowchart.md)
    * [65 - Python Basics 8 (TODO)](065-python-basics-8.md)
    * [70 - The Raven (TODO)](070-the-raven.md)
