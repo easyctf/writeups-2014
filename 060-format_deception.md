@@ -16,4 +16,4 @@ We open this in a hex editor (I used HxD). We note the header bytes are 50 4B, o
 
 ## Flag
 
-d0nt_judg3_a_file_by_1ts_ext3nsi0n
+`d0nt_judg3_a_file_by_1ts_ext3nsi0n`
