@@ -46,7 +46,7 @@
    * [120 - Fast Math (TODO)](120-fast-math.md)
    * [130 - Reversing 2 (TODO)](130-reversing-2.md)
    * [150 - Ghoti](150-ghoti.md)
-   * [160 - Obfuscation 2 (TODO)](160-obfuscation-2.md)
+   * [160 - Obfuscation 2](160-obfuscation-2.md)
    * [180 - The Door (TODO)](180-the-door.md)
    * [180 - Evil Guess (TODO)](180-evil-guess.md)
    * [180 - RSA (TODO)](180-rsa.md)
