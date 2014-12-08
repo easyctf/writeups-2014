@@ -31,6 +31,7 @@ Poems were used in cryptography in WW2 to encrypt messages, but were regarded as
 Searching up "poem code" on google, we get some idea of how poem codes work. It seems that the key is the 6th, 11th, 22nd, 28th, and 66th words. This means while, weary, while, there, and bleak. So our key is whilewearywhiletherebleak. Then, this means that the "ordering" is 22 10 13 16 4 23 5 1 19 25 24 11 14 17 6 20 12 7 20 8 3 18 9 2 15, where the 1 corresponds with the first "a" in our key, the 2 corresponds with the second "a", and so on. What this means is that uooy, the first block of text, corresponds with the 22nd column of plaintext.
 
 Putting it together, we get:
+
     poemcodeshidmessagesdurin
     gworldwartwogreatjobforfi
     guringitouttheflagisgoodo
