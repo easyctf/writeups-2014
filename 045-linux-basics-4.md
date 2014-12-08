@@ -23,3 +23,4 @@ Wow! Your flag is: xxxxxxxxxxx
 ```
 
 ## Flag
+`thats_so_nice`
