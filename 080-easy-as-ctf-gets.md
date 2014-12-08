@@ -22,4 +22,4 @@ And voila! You get the flag!
 
 ## Flag
 
-hiddeninplainsight
+`hiddeninplainsight`
