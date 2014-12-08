@@ -26,4 +26,4 @@ Enter "tetraodontidae" as the key and "1e95153b6c941098227a4b08d9d74cb9d7b9387f8
 
 ## Flag
 
-bl0w_fish_so_s3cret_
+`bl0w_fish_so_s3cret_`
