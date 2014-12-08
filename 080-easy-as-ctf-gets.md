@@ -1,5 +1,7 @@
 # 80 - Easy As CTF Gets
 
+*Writeup by Jester*
+
 ## Problem
 
 What could this possibly mean?
