@@ -1,5 +1,7 @@
 # 160 - Obfuscation2
 
+*Written by Austin Zhou*
+
 ## Problem
 
 This jumbled mess has been left for you... [source](obfuscate.js)
