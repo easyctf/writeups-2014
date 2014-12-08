@@ -20,7 +20,7 @@
    * [50 - POST-it](050-post-it.md)
    * [50 - Reversing 1](050-reversing-1.md)
    * [55 - Python Basics 6 (TODO)](055-python-basics-6.md)
-   * [60 - A000045.txt (TODO)](060-a000045-txt.md)
+   * [60 - A000045.txt](060-a000045-txt.md)
    * [60 - Stegosaurus (TODO)](060-stegosaurus.md)
    * [60 - Python Basics 7 (TODO)](060-python-basics-7.md)
    * [60 - Cookiezi Fanpage (TODO)](060-cookiezi-fanpage.md)
