@@ -12,7 +12,13 @@ After you manage to open the .nds file, (if you don't know how, Google is your b
 
 ## Solution
 
-We open this in a hex editor (I used HxD). We note the header bytes are 50 4B, or PK. This means that it is actually a .zip file. We rename the extension to .zip, and open it. There are lots of files! Our first instinct is to look through the thumbnails, except the image is super blurry. Too bad, we have to look through the slew of other files. Thankfully, the somewhat obvious file "settings" seems to have our flag in it!
+```
+$ file format_deception.nds
+format_deception.nds: OpenDocument Text
+$ libreoffice format_deception.nds
+```
+
+A document with the flag inside.
 
 ## Flag
 
