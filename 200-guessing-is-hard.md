@@ -1,4 +1,5 @@
 # 200 - Guessing is hard
+*Written by Jacob Edelman*
 
 ## Problem 
 
