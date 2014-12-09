@@ -38,4 +38,4 @@ Putting it together, we get:
     ldfashionedinsecurecrypto
 ## Flag
 
-goodoldfashionedinsecurecrypto
+`goodoldfashionedinsecurecrypto`
