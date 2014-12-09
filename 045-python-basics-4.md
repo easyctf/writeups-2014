@@ -11,3 +11,15 @@ Clarification: for `args[0]`, concatenate its value, not its type.
 ## Hint
 
 I hope you're taking notes; this stuff will be on the harder problems :)
+
+## Solution
+This was the intended solution, but it turns out Skulpt does not implement the type method very well, but since you know `args[3]` is either a string or an integer, it is pretty easy to obtain the flag.
+
+```python
+import math
+print args[0]+str(type(args[1]))+str(len(args[2]))+str(math.sqrt(args[3]))+str(args[4][::-1])
+```
+
+## Flag
+
+`combine_all_y0ur_kn0wledge`
