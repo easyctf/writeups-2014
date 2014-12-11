@@ -21,7 +21,8 @@ In this file, it says:
     my favorite numbers are seven and three.
     gaf cnrvp qnjkfs hz zfufqgffq
     
-The bottom seems suspicious, and looks like some kind of cipher. Plugging it into [quipqiup](http://quipqiup.com/), we get
+The bottom seems suspicious, and looks like some kind of cipher. Plugging it into [quipqiup](http://quipqiup.com/), we get:
+
     the lucky number is seventeen
 
 We then look into file 17. It seems like a bunch of meaningless text, but when we CTRL+F "answer," we find:
