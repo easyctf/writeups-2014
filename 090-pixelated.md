@@ -8,7 +8,7 @@
 
 ## Hint
 
-Did you know you can do <a href="http://homepages.inf.ed.ac.uk/rbf/HIPR2/arthops.htm" target="_blank">arithmetic with images</a> too?
+Did you know you can do [arithmetic with images](http://homepages.inf.ed.ac.uk/rbf/HIPR2/arthops.htm) too?
 
 ## Solution
 
