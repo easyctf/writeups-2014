@@ -41,7 +41,7 @@
    * [90 - Obfuscation 1 (TODO)](090-obfuscation-1.md)
    * [90 - Pixelated (TODO)](090-pixelated.md)
    * [95 - Brachiosaurus (TODO)](095-brachiosaurus.md)
-   * [100 - Project Eratosthenes (TODO)](100-project-eratosthenes.md)
+   * [100 - Project Eratosthenes](100-project-eratosthenes.md)
    * [100 - Palindrama](100-palindrama.md)
    * [120 - Fast Math (TODO)](120-fast-math.md)
    * [130 - Reversing 2 (TODO)](130-reversing-2.md)
