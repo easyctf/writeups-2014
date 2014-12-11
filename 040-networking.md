@@ -19,3 +19,14 @@ Alternatively, here is the source file if you like to download it and view it in
 ## Hint
 
 It seems like information is being recorded as a form is submitted, through a POST request.
+
+## Solution
+Looking through the network packets, there is a HTTP POST request with the following values:
+
+```
+username=ctf&password=flagisnetworkingispowerful&submit=Login
+```
+
+## Flag
+`networkingispowerful`
+
