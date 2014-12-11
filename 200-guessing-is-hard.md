@@ -1,7 +1,5 @@
 # 200 - Guessing is hard
-*Written by Jacob Edelman*
-
-*Writeup by MegaAbsol*
+*Written by Jacob Edelman, Writeup by MegaAbsol*
 
 ## Problem 
 
