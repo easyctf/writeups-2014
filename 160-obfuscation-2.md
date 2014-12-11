@@ -2,6 +2,8 @@
 
 *Written by Austin Zhou*
 
+*Writeup by Jester*
+
 ## Problem
 
 This jumbled mess has been left for you... [source](obfuscate.js)
