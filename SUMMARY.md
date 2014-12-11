@@ -40,7 +40,7 @@
    * [80 - Injection](080-injection.md)
    * [90 - Obfuscation 1 (TODO)](090-obfuscation-1.md)
    * [90 - Pixelated](090-pixelated.md)
-   * [95 - Brachiosaurus (TODO)](095-brachiosaurus.md)
+   * [95 - Brachiosaurus](095-brachiosaurus.md)
    * [100 - Project Eratosthenes](100-project-eratosthenes.md)
    * [100 - Palindrama](100-palindrama.md)
    * [120 - Fast Math](120-fast-math.md)
