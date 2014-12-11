@@ -1,6 +1,6 @@
 # 75 - Corruption
 
-*Writeup by Tim Winters*
+*Written by Michael Zhang, Writeup by Tim Winters*
 
 ## Problem
 You revieved a zip file but find that it is orrupted! You're given that it's missing a couple of bytes at the beginning. Replace these bytes and find the flag
