@@ -39,7 +39,7 @@
    * [80 - Easy As CTF Gets](080-easy-as-ctf-gets.md)
    * [80 - Injection](080-injection.md)
    * [90 - Obfuscation 1 (TODO)](090-obfuscation-1.md)
-   * [90 - Pixelated (TODO)](090-pixelated.md)
+   * [90 - Pixelated](090-pixelated.md)
    * [95 - Brachiosaurus (TODO)](095-brachiosaurus.md)
    * [100 - Project Eratosthenes](100-project-eratosthenes.md)
    * [100 - Palindrama](100-palindrama.md)
