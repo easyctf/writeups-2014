@@ -35,7 +35,7 @@
    * [70 - Format](070-format.md)
    * [75 - Golden Ratio Obsession (TODO)](075-golden-ratio-obsession.md)
    * [75 - Corruption (TODO)](075-corruption.md)
-   * [75 - Python Basics 10 (TODO)](075-python-basics-10.md)
+   * [75 - Python Basics 10](075-python-basics-10.md)
    * [80 - Easy As CTF Gets](080-easy-as-ctf-gets.md)
    * [80 - Injection](080-injection.md)
    * [90 - Obfuscation 1 (TODO)](090-obfuscation-1.md)
