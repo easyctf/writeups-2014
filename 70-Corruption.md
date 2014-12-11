@@ -1,9 +1,10 @@
-# 70 - Corruption
+# 75 - Corruption
 
 *Writeup by Tim Winters*
 
 ## Problem
 You revieved a zip file but find that it is orrupted! You're given that it's missing a couple of bytes at the beginning. Replace these bytes and find the flag
+
 ## Hint
 
 No clue what bytes to insert? Perhaps looking into file headers would be helpful. Also, you might want to download a hex editor, such as HxD.
