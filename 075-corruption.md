@@ -14,7 +14,7 @@ A google seach of .zip file headers will lead you to [this website](http://www.g
 
 If we open the file in a hex editor program, it shows the first byte as `03 04 14 00`. We need it to be `50 4B 03 04`, and we have `03 04`, so by adding `50 4B` the first byte is `50 4B 03 04` and the file will extract.
 
-In the extracted folder, we see a number of files (3000). Opening a file in a text editor reveals a series of characters. To find the flag, use the `findstr` (`grep` for mac) and search for "flag" in all files. To search all files, use a '*'. The final command will be `grep flag *`. The flag is hidden in file f2590
+In the extracted folder, we see a number of files (3000). Opening a file in a text editor reveals a series of characters. To find the flag, use the `findstr` (`grep` for mac) and search for "flag" in all files. To search all files, use a '\*'. The final command will be `grep flag *`. The flag is hidden in file `f2590`.
 
 ## Flag
 
