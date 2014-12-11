@@ -1,10 +1,6 @@
 # 90 - Pixelated
 
-*Written by Emily Leng*
-
-## Problem
-
-*Writeup by Jester*
+*Written by Emily Leng, Writeup by Jester*
 
 ## Problem
 
