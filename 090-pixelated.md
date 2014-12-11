@@ -4,14 +4,11 @@
 
 ## Problem
 
-<table align="center" border="0" cellpadding="1" cellspacing="1" style="width:500px"><tbody><tr><td><img alt="" src="1.png" style="height:200px; width:200px"></td><td><img alt="" src="2.png" style="height:200px; width:200px"></td></tr></tbody></table>
-
 *Writeup by Jester*
 
 ## Problem
 
-<img src="http://i.imgur.com/LN4klWr.png"\>      <img src="http://i.imgur.com/ubk2fLw.png"\>
->>>>>>> f22ce8d3eda8512263e1636b9cf9f949e256a958
+<table align="center" border="0" cellpadding="1" cellspacing="1" style="width:500px"><tbody><tr><td><img alt="" src="1.png" style="height:200px; width:200px"></td><td><img alt="" src="2.png" style="height:200px; width:200px"></td></tr></tbody></table>
 
 ## Hint
 
