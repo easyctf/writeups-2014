@@ -1,6 +1,6 @@
 # 90 - Obfuscation 1
 
-*Written by Michael Zhang, Writeup by MegaAbsol*
+*Written by Emily Leng, Writeup by MegaAbsol*
 
 ## Problem
 
@@ -43,4 +43,4 @@ On the second-last line of output, look what we get:
 
 ## Flag
 
-VINEGARISTHEBESTCIPHER
+`VINEGARISTHEBESTCIPHER`
