@@ -2,7 +2,7 @@
 
 *someone write some really inspiring stuff here*
 
-Thanks for playing EasyCTF! Here are the solutions to the problems. If you have something to add, feel free to make a pull request to https://github.com/failedxyz/easyctf_writeups.
+Thanks for playing EasyCTF! Here are the solutions to the problems. If you have something to add, feel free to make a pull request to https://github.com/easyctf/writeups-2014.
 
 ## Reflection
 
