@@ -33,7 +33,7 @@
    * [70 - Brutus](070-brutus.md)
    * [70 - Hashing (TODO)](070-hashing.md)
    * [70 - Format](070-format.md)
-   * [75 - Golden Ratio Obsession (TODO)](075-golden-ratio-obsession.md)
+   * [75 - Golden Ratio Obsession](075-golden-ratio-obsession.md)
    * [75 - Corruption](075-corruption.md)
    * [75 - Python Basics 10](075-python-basics-10.md)
    * [80 - Easy As CTF Gets](080-easy-as-ctf-gets.md)
