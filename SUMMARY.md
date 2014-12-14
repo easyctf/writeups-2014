@@ -25,7 +25,7 @@
    * [60 - Python Basics 7](060-python-basics-7.md)
    * [60 - Cookiezi Fanpage](060-cookiezi-fanpage.md)
    * [60 - Format Deception](060-format_deception.md)
-   * [60 - Flowchart (TODO)](060-flowchart.md)
+   * [60 - Flowchart](060-flowchart.md)
    * [65 - Python Basics 8](065-python-basics-8.md)
    * [70 - The Raven](070-The_Raven.md)
    * [70 - Just Sum Numbers](070-just-sum-numbers.md)
