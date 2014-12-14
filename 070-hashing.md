@@ -27,9 +27,14 @@ print flag
  
 One possible answer then would be `kxjeernlntybuhbl`
 
+But the original string was actually `xxxXXX_nobody123will123evar123know234this345flag_XXXxxx`
+
 ## Flag
 
-`kxjeernlntybuhbl`
+(Several possible answers)
+
+- `kxjeernlntybuhbl`
+- `xxxXXX_nobody123will123evar123know234this345flag_XXXxxx`
 
 
 
